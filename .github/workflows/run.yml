@@ -23,8 +23,8 @@ jobs:
       id: run
       uses: nick-fields/retry@v2
       env:
-        TY_USER_NAME: ${{secrets.TY_USER_NAME}}
-        TY_PASSWORD: ${{secrets.TY_PASSWORD}}
+        TY_USER_NAME: ${{secrets.18062162180}}
+        TY_PASSWORD: ${{secrets.Hukan95512!}}
         TY_USER_NAME1: ${{secrets.TY_USER_NAME1}}
         TY_PASSWORD1: ${{secrets.TY_PASSWORD1}}
         TY_USER_NAME2: ${{secrets.TY_USER_NAME2}}
